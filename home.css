@@ -1,4 +1,9 @@
 .header{
+	display: ;
 	background-color: grey;
-
+	margin-left: auto;
+	margin-right: auto;
+}
+.profile{
+	margin: 0;
 }
