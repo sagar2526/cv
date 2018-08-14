@@ -4,6 +4,7 @@
 .header{
 	background-color: grey;
 	padding: 20px;
+	opacity:0.30;
 }
 .profile{
 	margin: auto;
@@ -38,6 +39,7 @@ img{
 	float: left;
 }
 li{
+	color: bisque;
 	list-style: none;
 	display: inline;
 	margin-left: 120px ;
