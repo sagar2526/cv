@@ -35,7 +35,7 @@
 	color: white;
 }
 img{
-	border-radius: 50%;
+	border-radius: 60%;
 	float: left;
 }
 li{
@@ -52,6 +52,10 @@ h1{
 	font-family: 'Playfair Display', serif;
 
 }
-p h3 h4 h5{
+
+p,h3,h4,h5{
 	font-family: 'Lato', sans-serif;
 } 
+h4,h5{
+	color: gray;
+}
